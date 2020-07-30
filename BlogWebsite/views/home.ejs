@@ -1,0 +1,8 @@
+<%- include partials/header %> 
+<h1>Home</h1>
+<p><%= homeStartingContent %> </p>
+<% posts.forEach(function(publication) { %>
+    <h1><%= publication.postTitle %></h1>
+    <p><%= publication.postMessage %></p>
+<% }); %>
+<%- include partials/footer %>
