@@ -1,0 +1,40 @@
+[
+    {
+        "_id": "5f2602ef362b7e76255f882c",
+        "title": "REST",
+        "content": "REST is short for Reprensetational State Transfer"
+    },
+    {
+        "_id": "5c139771d79ac8eac11e754a",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "5c1398aad79ac8eac11e7561",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "5c1398ecd79ac8eac11e7567",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "5f260e4af7778d1ce472d822",
+        "content": "MTA DM pro Player hltv confirmed bro xdxdxd",
+        "__v": 0,
+        "title": "Luciano"
+    },
+    {
+        "_id": "5f260ea89979b90cecf580f9",
+        "content": "MTA DM pro Player hltv confirmed bro xdxdxd",
+        "__v": 0,
+        "title": "Luciano"
+    },
+    {
+        "_id": "5f260f36e5f9ab25f02c8953",
+        "content": "MTA DM pro Player hltv confirmed bro xdxdxd",
+        "__v": 0,
+        "title": "Luciano"
+    }
+]
