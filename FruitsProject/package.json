@@ -1,7 +1,7 @@
 {
-  "name": "ejs-challenge",
+  "name": "fruitsproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using mongodb with nodejs without any framework(mongodb driver)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,6 @@
   "author": "Luciano Pierdona",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "ejs": "^2.6.1",
-    "express": "^4.16.3",
-    "lodash": "^4.17.19"
+    "mongodb": "^3.5.9"
   }
 }

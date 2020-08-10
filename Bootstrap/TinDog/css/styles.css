@@ -1,0 +1,155 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+p {
+    color: #8f8f8f;
+}
+/* sections */
+.colored-section {
+    background: #ff4c68;
+    color: #fff;
+}
+.white-section {
+    background: #fff;
+}
+
+/* Headings */
+.big-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;  
+}
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#title {
+    text-align: left;
+}
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+/* Navbar */
+.navbar {
+    padding: 0 0 5.5rem;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+/* Download Buttons */
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+/* Title Image */
+.title-image {
+    position: absolute;
+    z-index: 0;
+    width: 60%;
+    right: 30%;
+    transform: rotate(25deg);
+}
+/* Features */
+#features {
+    padding: 150px 0;
+    position: relative;
+}
+.features-title {
+    font-size: 1.5rem;
+}
+.benefits i {
+    color: #ef8172;
+    font-size: 75px;
+    margin-bottom: 1rem;
+}
+.benefits i:hover {
+    color: #ff4c68;
+}
+.benefits-icon {
+    padding-bottom: 50px;
+}
+/* Testimonials Section */
+#testimonials {
+    background: #ef8172;
+}
+.testimonials-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background: #ef8172;
+    padding-bottom: 3%;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Princing Section */
+
+#pricing {
+    padding: 100px;
+}
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.pricing-column {
+    padding: 3% 2%;
+}
+
+/* cta section */
+#cta {
+    padding: 150px 0;    
+    font-weight: 900;
+}
+.container h3 {
+    color: #fff;
+    font-size: 3rem;
+}
+/* contact section */
+#footer {
+    padding: 150px 0;
+}
+.icons-footer {
+    padding-bottom: 15px;
+}
+.icons-footer i {
+    cursor: pointer;
+    font-size: 20px;
+    padding-left: 7px;
+}
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0deg);
+    }
+}
